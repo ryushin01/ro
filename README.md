@@ -12,5 +12,5 @@
   - <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&amp;logo=VisualStudioCode&amp;logoColor=white">
 
 - 코드 컨벤션
-  - <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat-square&logo=Prettier&logoColor=black"
+  - <img src="https://img.shields.io/badge/Prettier-F7B93E.svg?style=flat-square&logo=Prettier&logoColor=black">
   - <img src="https://img.shields.io/badge/ESLint-4B32C3.svg?style=flat-square&logo=ESLint&logoColor=white">
