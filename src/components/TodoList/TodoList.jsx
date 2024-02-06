@@ -1,4 +1,4 @@
-import { Box, Text } from '@chakra-ui/react';
+import { Wrap } from '@chakra-ui/react';
 
 const TodoList = () => {
   const properties = {
@@ -10,9 +10,9 @@ const TodoList = () => {
   const { title } = properties;
 
   return (
-    <Box bg="tomato" w="100%" p={4} color="white">
-      <Text fontSize="7xl">{title}</Text>
-    </Box>
+    <Wrap as="section" flex="1" py="4" overflowY="auto">
+      <div>111</div>
+    </Wrap>
   );
 };
 
